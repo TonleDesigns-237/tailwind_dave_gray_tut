@@ -1,0 +1,7 @@
+node_modules/
+build/
+dist/
+tailwind-full.css
+*.min.css
+.DS_Store
+*.log
